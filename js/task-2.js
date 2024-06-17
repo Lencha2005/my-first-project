@@ -100,3 +100,22 @@
     
 // }
 // console.log(total);
+
+// function getLastElementMeta(array) {
+//     const arrayNew = [array.length - 1, array[array.length - 1]]
+//     return arrayNew
+//   }
+
+// function calculateTotalPrice(order) {
+//     let total = 0;
+//     for (let i = 0; i <= order.length; i++){
+//         console.log(order[i]);
+//         total += order[i];
+//         console.log(total);
+//     }
+//     return total
+// }
+
+//   calculateTotalPrice([164, 48, 291]);
+
+  
