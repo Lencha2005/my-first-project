@@ -118,4 +118,16 @@
 
 //   calculateTotalPrice([164, 48, 291]);
 
+// ****
+
+
+
+// function createReversedArray() {
+//     let args = Array.from(arguments);
+//     console.log(args.toReversed())
+//       return args.toReversed();
+      
+//   }
+  
+//   createReversedArray(12, 85, 37, 4)
   
