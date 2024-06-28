@@ -230,3 +230,23 @@
 
 // updateCourse('HTML', 'NestJS');
 // console.log(courses); // ['HTML', 'CSS', 'JavaScript', 'PostgreSQL', 'NestJS']
+
+// ? У нас є об'єкт, де зберігаються зарплати нашої команди. Напишіть код для
+// ? підсумовування всіх зарплат і збережіть результат у змінній sum.
+// ? Повинно вийти 390. Якщо об'єкт salaries порожній, то результат має бути 0.
+// */
+
+// const salaries = {
+//   John: 100,
+//   Ann: 160,
+//   Pete: 130,
+// };
+
+// let sum = 0;
+// const salariesOwn = Object.values(salaries);
+// console.log(salariesOwn);
+// for (const salary of salariesOwn) {
+//     sum += salary;
+// };
+// console.log(sum);
+
